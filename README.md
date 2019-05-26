@@ -1,6 +1,6 @@
-# 911dataExploreProject
+# 911 data Explore Project
 
-A learning project about analyzing 911 call data from Kaggle. The data contains the following fields:
+** A learning project about analyzing 911 call data from [Kaggle](https://www.kaggle.com/). The data contains the following fields:**
 
 * lat : Latitude
 * lng: Longitude
